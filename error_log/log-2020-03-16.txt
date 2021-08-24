@@ -1,0 +1,764 @@
+ERROR - 2020-03-16 04:29:42 --> 404 Page Not Found: /index
+ERROR - 2020-03-16 04:30:07 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) C:\xampp\htdocs\sisven\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-03-16 04:30:07 --> Unable to connect to the database
+ERROR - 2020-03-16 04:30:29 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) C:\xampp\htdocs\sisven\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-03-16 04:30:29 --> Unable to connect to the database
+ERROR - 2020-03-16 04:30:39 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) C:\xampp\htdocs\sisven\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-03-16 04:30:39 --> Unable to connect to the database
+ERROR - 2020-03-16 05:06:24 --> Severity: Notice --> Undefined property: Login::$m_login C:\xampp\htdocs\sisven\application\controllers\Login.php 30
+ERROR - 2020-03-16 05:06:24 --> Severity: error --> Exception: Call to a member function auth_user() on null C:\xampp\htdocs\sisven\application\controllers\Login.php 30
+ERROR - 2020-03-16 05:07:11 --> Severity: Notice --> Undefined property: Login::$m_login C:\xampp\htdocs\sisven\application\controllers\Login.php 30
+ERROR - 2020-03-16 05:07:11 --> Severity: error --> Exception: Call to a member function auth_user() on null C:\xampp\htdocs\sisven\application\controllers\Login.php 30
+ERROR - 2020-03-16 05:08:28 --> Query error: Table 'inventaris_pegadaian.user' doesn't exist - Invalid query: SELECT * FROM user WHERE nik='' AND password='' LIMIT 1 
+ERROR - 2020-03-16 06:10:30 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) C:\xampp\htdocs\sisven\application\views\template\pages-login.php 130
+ERROR - 2020-03-16 06:10:40 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) C:\xampp\htdocs\sisven\application\views\template\pages-login.php 130
+ERROR - 2020-03-16 07:05:55 --> 404 Page Not Found: Asset/images
+ERROR - 2020-03-16 07:06:10 --> 404 Page Not Found: Asset/images
+ERROR - 2020-03-16 07:06:15 --> 404 Page Not Found: Asset/images
+ERROR - 2020-03-16 07:06:41 --> 404 Page Not Found: Asset/images
+ERROR - 2020-03-16 07:06:48 --> 404 Page Not Found: Asset/images
+ERROR - 2020-03-16 07:20:06 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2020-03-16 07:30:00 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2020-03-16 07:31:01 --> 404 Page Not Found: Pages-lock-screenhtml/index
+ERROR - 2020-03-16 07:51:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:32 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:32 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:32 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:32 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:32 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:32 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:32 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:32 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:32 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:32 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:32 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:33 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:51:33 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:06 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:06 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:06 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:53:06 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:47 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:47 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:47 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:47 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:47 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:47 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:47 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:47 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:47 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:47 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:47 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:54:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:27 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:29 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:29 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:30 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:31 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:55:59 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:25 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:25 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:25 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:25 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:25 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:25 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:25 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:26 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:45 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:46 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:56:54 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:55 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:55 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:55 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:55 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:55 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:57:56 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:49 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 07:58:50 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:00:06 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:01:25 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:04:14 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:04:57 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:05:05 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:05:22 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:05:28 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:06:11 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:06:18 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:06:38 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:10:26 --> 404 Page Not Found: Home/forms-advanced.html
+ERROR - 2020-03-16 08:33:40 --> 404 Page Not Found: Home/forms-advanced.html
+ERROR - 2020-03-16 08:33:44 --> 404 Page Not Found: Home/forms-advanced.html
+ERROR - 2020-03-16 08:33:52 --> 404 Page Not Found: Home/forms-advanced.html
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:01 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:02 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:03 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:03 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:43:03 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:51 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:52 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:44:53 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:15 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:45:16 --> 404 Page Not Found: Home/assets
+ERROR - 2020-03-16 08:56:20 --> 404 Page Not Found: Home/forms-general.html
+ERROR - 2020-03-16 16:45:21 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 16:47:51 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 16:49:52 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 16:51:10 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 16:51:11 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 16:51:13 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 16:51:24 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 16:53:13 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 16:53:22 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 16:54:54 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 16:57:25 --> 404 Page Not Found: Stock/index
+ERROR - 2020-03-16 17:00:28 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 17:00:32 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 17:02:19 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 17:02:44 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 17:03:00 --> 404 Page Not Found: Stock/delete_cabang
+ERROR - 2020-03-16 17:04:22 --> 404 Page Not Found: Stock/index
+ERROR - 2020-03-16 17:04:59 --> 404 Page Not Found: Stock/index
+ERROR - 2020-03-16 17:05:04 --> 404 Page Not Found: Stock/index
+ERROR - 2020-03-16 17:05:08 --> 404 Page Not Found: Stock/index
+ERROR - 2020-03-16 17:05:14 --> 404 Page Not Found: Stock/index
+ERROR - 2020-03-16 17:11:59 --> Query error: Column 'nama_cabang' cannot be null - Invalid query: INSERT INTO `cabang_pegadaian` (`nama_cabang`, `alamat_cabang`) VALUES (NULL, NULL)
+ERROR - 2020-03-16 17:14:47 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\crud_stock.php 210
+ERROR - 2020-03-16 17:14:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\crud_stock.php 210
+ERROR - 2020-03-16 17:15:08 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\crud_stock.php 210
+ERROR - 2020-03-16 17:15:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\crud_stock.php 210
+ERROR - 2020-03-16 17:29:00 --> 404 Page Not Found: Stock/add_jenis_barang
+ERROR - 2020-03-16 17:36:29 --> Severity: Notice --> Undefined property: Home::$m_barang C:\xampp\htdocs\sisven\application\controllers\Home.php 32
+ERROR - 2020-03-16 17:36:29 --> Severity: error --> Exception: Call to a member function get_all_data_barang() on null C:\xampp\htdocs\sisven\application\controllers\Home.php 32
+ERROR - 2020-03-16 17:47:19 --> Severity: error --> Exception: syntax error, unexpected end of file C:\xampp\htdocs\sisven\application\views\template\list_stock.php 314
+ERROR - 2020-03-16 17:47:31 --> Severity: Notice --> Undefined variable: data_barang_all C:\xampp\htdocs\sisven\application\views\template\list_stock.php 190
+ERROR - 2020-03-16 17:47:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\list_stock.php 190
+ERROR - 2020-03-16 17:48:18 --> Severity: Notice --> Undefined variable: data_barang_all C:\xampp\htdocs\sisven\application\views\template\list_stock.php 190
+ERROR - 2020-03-16 17:48:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\list_stock.php 190
+ERROR - 2020-03-16 17:48:29 --> Severity: Notice --> Undefined variable: data_barang_all C:\xampp\htdocs\sisven\application\views\template\list_stock.php 190
+ERROR - 2020-03-16 17:48:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\list_stock.php 190
+ERROR - 2020-03-16 18:18:57 --> Severity: error --> Exception: syntax error, unexpected '}' C:\xampp\htdocs\sisven\application\controllers\Stock.php 21
+ERROR - 2020-03-16 19:12:03 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:03 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:03 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-03-16 19:12:03 --> 404 Page Not Found: Assets/css
+ERROR - 2020-03-16 19:12:05 --> 404 Page Not Found: Assets/css
+ERROR - 2020-03-16 19:12:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-03-16 19:12:22 --> 404 Page Not Found: Assets/css
+ERROR - 2020-03-16 19:12:22 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:22 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:22 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:22 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-03-16 19:12:35 --> 404 Page Not Found: Assets/css
+ERROR - 2020-03-16 19:12:35 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:35 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:35 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:12:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-03-16 19:13:05 --> 404 Page Not Found: Assets/css
+ERROR - 2020-03-16 19:13:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:13:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:13:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-03-16 19:13:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:13:43 --> 404 Page Not Found: Assets/css
+ERROR - 2020-03-16 19:13:43 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:13:43 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:13:43 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:13:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-03-16 19:14:03 --> 404 Page Not Found: Assets/css
+ERROR - 2020-03-16 19:14:03 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:14:03 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:14:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-03-16 19:14:03 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:15:12 --> 404 Page Not Found: Assets/css
+ERROR - 2020-03-16 19:15:12 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:15:12 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:15:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-03-16 19:15:12 --> 404 Page Not Found: Assets/js
+ERROR - 2020-03-16 19:19:47 --> Severity: Notice --> Undefined variable: nama_barang C:\xampp\htdocs\sisven\application\controllers\Stock.php 66
+ERROR - 2020-03-16 19:24:44 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\sisven\application\controllers\Stock.php 69
+ERROR - 2020-03-16 19:28:53 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:28:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:28:53 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:28:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:28:53 --> Severity: Notice --> Undefined variable: data_barang_all C:\xampp\htdocs\sisven\application\views\template\edit_data.php 237
+ERROR - 2020-03-16 19:28:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 237
+ERROR - 2020-03-16 19:29:22 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:29:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:29:22 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:29:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:30:01 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:30:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:30:01 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:30:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:30:08 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:30:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:30:08 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:30:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:30:14 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:30:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:30:14 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:30:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:32:51 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:32:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:32:51 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:32:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:33:41 --> Severity: Notice --> Undefined variable: row_db C:\xampp\htdocs\sisven\application\views\template\edit_data.php 176
+ERROR - 2020-03-16 19:33:41 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:33:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:33:41 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:33:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:34:16 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:34:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 185
+ERROR - 2020-03-16 19:34:16 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:34:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:35:34 --> Severity: Notice --> Undefined property: Stock::$m_barang C:\xampp\htdocs\sisven\application\controllers\Stock.php 70
+ERROR - 2020-03-16 19:35:34 --> Severity: error --> Exception: Call to a member function get_all_jenis() on null C:\xampp\htdocs\sisven\application\controllers\Stock.php 70
+ERROR - 2020-03-16 19:35:50 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:35:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\edit_data.php 198
+ERROR - 2020-03-16 19:45:13 --> Severity: Notice --> Undefined variable: id C:\xampp\htdocs\sisven\application\controllers\Stock.php 78
+ERROR - 2020-03-16 20:09:42 --> Severity: Notice --> Undefined property: Home::$m_user C:\xampp\htdocs\sisven\application\controllers\Home.php 24
+ERROR - 2020-03-16 20:09:42 --> Severity: error --> Exception: Call to a member function get_users() on null C:\xampp\htdocs\sisven\application\controllers\Home.php 24
+ERROR - 2020-03-16 20:09:56 --> Severity: error --> Exception: Call to undefined method CI_Loader::mode() C:\xampp\htdocs\sisven\application\controllers\Home.php 11
+ERROR - 2020-03-16 20:10:08 --> Severity: error --> Exception: Call to undefined function mysql_query() C:\xampp\htdocs\sisven\application\models\M_user.php 7
+ERROR - 2020-03-16 20:10:23 --> Severity: Warning --> mysqli_query() expects at least 2 parameters, 1 given C:\xampp\htdocs\sisven\application\models\M_user.php 7
+ERROR - 2020-03-16 20:10:23 --> Severity: Warning --> mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given C:\xampp\htdocs\sisven\application\models\M_user.php 8
+ERROR - 2020-03-16 20:13:37 --> Severity: error --> Exception: Call to undefined function sum() C:\xampp\htdocs\sisven\application\views\template\home.php 184
+ERROR - 2020-03-16 20:16:04 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\sisven\application\views\template\home.php 184
+ERROR - 2020-03-16 20:16:28 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\sisven\application\views\template\home.php 184
+ERROR - 2020-03-16 20:16:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\sisven\application\views\template\home.php 184
+ERROR - 2020-03-16 20:24:07 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 170
+ERROR - 2020-03-16 20:43:27 --> Severity: error --> Exception: syntax error, unexpected end of file C:\xampp\htdocs\sisven\application\views\template\laporan_stock.php 300
+ERROR - 2020-03-16 21:03:16 --> Severity: Notice --> Undefined variable: data_barang C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:03:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:04:16 --> Severity: Notice --> Undefined variable: data_barang C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:04:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:05:07 --> Severity: Notice --> Undefined variable: data_barang C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:05:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:05:38 --> Severity: Notice --> Undefined variable: data_barang C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:05:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:05:47 --> Severity: Notice --> Undefined variable: data_barang C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:05:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:06:02 --> Severity: Notice --> Undefined variable: data_barang C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:06:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:11:17 --> Severity: Notice --> Undefined variable: data_barang C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:11:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 189
+ERROR - 2020-03-16 21:30:13 --> Severity: Notice --> Undefined variable: data_barang C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 207
+ERROR - 2020-03-16 21:30:36 --> Severity: Notice --> Undefined variable: data_barang C:\xampp\htdocs\sisven\application\views\template\list_transactions.php 207

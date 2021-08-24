@@ -1,0 +1,228 @@
+ERROR - 2020-03-18 19:58:12 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 246
+ERROR - 2020-03-18 19:58:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 246
+ERROR - 2020-03-18 19:58:12 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 259
+ERROR - 2020-03-18 19:58:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 259
+ERROR - 2020-03-18 19:58:12 --> Severity: Notice --> Undefined variable: data_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 298
+ERROR - 2020-03-18 19:58:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 298
+ERROR - 2020-03-18 19:58:54 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 246
+ERROR - 2020-03-18 19:58:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 246
+ERROR - 2020-03-18 19:58:54 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 259
+ERROR - 2020-03-18 19:58:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 259
+ERROR - 2020-03-18 19:58:54 --> Severity: Notice --> Undefined variable: data_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 298
+ERROR - 2020-03-18 19:58:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 298
+ERROR - 2020-03-18 19:59:03 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 19:59:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 19:59:04 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 19:59:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 19:59:04 --> Severity: Notice --> Undefined variable: data_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 296
+ERROR - 2020-03-18 19:59:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 296
+ERROR - 2020-03-18 19:59:22 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 246
+ERROR - 2020-03-18 19:59:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 246
+ERROR - 2020-03-18 19:59:22 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 259
+ERROR - 2020-03-18 19:59:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 259
+ERROR - 2020-03-18 19:59:22 --> Severity: Notice --> Undefined variable: data_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 298
+ERROR - 2020-03-18 19:59:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 298
+ERROR - 2020-03-18 20:00:41 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:00:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:00:41 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:00:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:00:41 --> Severity: Notice --> Undefined variable: data_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 296
+ERROR - 2020-03-18 20:00:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 296
+ERROR - 2020-03-18 20:04:53 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:04:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:04:53 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:04:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:04:53 --> Severity: Notice --> Undefined variable: user_control C:\xampp\htdocs\sisven\application\views\template\account_setting.php 298
+ERROR - 2020-03-18 20:04:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 298
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:05:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:05:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined property: mysqli::$nik C:\xampp\htdocs\sisven\application\views\template\account_setting.php 301
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined property: mysqli::$name C:\xampp\htdocs\sisven\application\views\template\account_setting.php 302
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined property: mysqli::$email C:\xampp\htdocs\sisven\application\views\template\account_setting.php 303
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined property: mysqli::$phone_number C:\xampp\htdocs\sisven\application\views\template\account_setting.php 304
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined property: mysqli::$registration_date C:\xampp\htdocs\sisven\application\views\template\account_setting.php 305
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined property: mysqli_result::$nik C:\xampp\htdocs\sisven\application\views\template\account_setting.php 301
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined property: mysqli_result::$name C:\xampp\htdocs\sisven\application\views\template\account_setting.php 302
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined property: mysqli_result::$email C:\xampp\htdocs\sisven\application\views\template\account_setting.php 303
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined property: mysqli_result::$phone_number C:\xampp\htdocs\sisven\application\views\template\account_setting.php 304
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined property: mysqli_result::$registration_date C:\xampp\htdocs\sisven\application\views\template\account_setting.php 305
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 301
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 302
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 303
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 304
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 305
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 301
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 302
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 303
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 304
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 305
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 301
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 302
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 303
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 304
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 305
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 301
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 302
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 303
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 304
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 305
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 301
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 302
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 303
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 304
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 305
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 301
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 302
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 303
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 304
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 305
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:05:03 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:06:05 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:06:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:06:05 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:06:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:06:05 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:06:05 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 307
+ERROR - 2020-03-18 20:06:05 --> Severity: Notice --> Undefined variable: dba C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:06:05 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 311
+ERROR - 2020-03-18 20:08:32 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:08:32 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:08:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:08:57 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:08:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:08:57 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:08:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:09:06 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:09:06 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:09:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:09:13 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:09:13 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:09:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:20:45 --> Severity: Notice --> Undefined variable: jenis_barang_all C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:20:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 244
+ERROR - 2020-03-18 20:20:45 --> Severity: Notice --> Undefined variable: data_cabang C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:20:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sisven\application\views\template\account_setting.php 257
+ERROR - 2020-03-18 20:41:09 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) C:\xampp\htdocs\sisven\application\views\template\account_setting.php 453
+ERROR - 2020-03-18 21:04:00 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:04:10 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:04:48 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:06:33 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:06:35 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:06:36 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:06:37 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:06:38 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:06:38 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:06:38 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:06:46 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:06:55 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:07:04 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:07:48 --> Severity: Notice --> Undefined variable: data_user C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:07:48 --> Severity: error --> Exception: Call to a member function num_rows() on null C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:08:13 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:09:17 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:09:18 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:09:25 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:09:29 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:09:51 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:10:29 --> Severity: error --> Exception: Call to a member function num_row() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:10:31 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:10:35 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:10:37 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\sisven\application\views\template\home.php 191
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli::$nik C:\xampp\htdocs\sisven\application\views\template\account_setting.php 324
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli::$name C:\xampp\htdocs\sisven\application\views\template\account_setting.php 325
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli::$email C:\xampp\htdocs\sisven\application\views\template\account_setting.php 326
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli::$phone_number C:\xampp\htdocs\sisven\application\views\template\account_setting.php 327
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli::$registration_date C:\xampp\htdocs\sisven\application\views\template\account_setting.php 328
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli::$id C:\xampp\htdocs\sisven\application\views\template\account_setting.php 334
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli_result::$nik C:\xampp\htdocs\sisven\application\views\template\account_setting.php 324
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli_result::$name C:\xampp\htdocs\sisven\application\views\template\account_setting.php 325
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli_result::$email C:\xampp\htdocs\sisven\application\views\template\account_setting.php 326
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli_result::$phone_number C:\xampp\htdocs\sisven\application\views\template\account_setting.php 327
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli_result::$registration_date C:\xampp\htdocs\sisven\application\views\template\account_setting.php 328
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Undefined property: mysqli_result::$id C:\xampp\htdocs\sisven\application\views\template\account_setting.php 334
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 324
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 325
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 326
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 327
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 328
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 334
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 324
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 325
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 326
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 327
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 328
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 334
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 324
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 325
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 326
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 327
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 328
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 334
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 324
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 325
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 326
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 327
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 328
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 334
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 324
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 325
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 326
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 327
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 328
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 334
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'nik' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 324
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 325
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 326
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'phone_number' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 327
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 328
+ERROR - 2020-03-18 21:11:33 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\sisven\application\views\template\account_setting.php 334
+ERROR - 2020-03-18 21:27:14 --> Severity: error --> Exception: syntax error, unexpected 'endforeach' (T_ENDFOREACH) C:\xampp\htdocs\sisven\application\views\template\account_setting.php 352
+ERROR - 2020-03-18 21:28:25 --> Severity: Notice --> Undefined index: photo C:\xampp\htdocs\sisven\application\controllers\User_management.php 24
+ERROR - 2020-03-18 21:28:25 --> Severity: Notice --> Undefined index: photo C:\xampp\htdocs\sisven\application\controllers\User_management.php 25
+ERROR - 2020-03-18 21:28:25 --> Severity: Notice --> Undefined variable: date C:\xampp\htdocs\sisven\application\controllers\User_management.php 26
+ERROR - 2020-03-18 21:30:18 --> Severity: Notice --> Undefined index: photo C:\xampp\htdocs\sisven\application\controllers\User_management.php 24
+ERROR - 2020-03-18 21:30:18 --> Severity: Notice --> Undefined index: photo C:\xampp\htdocs\sisven\application\controllers\User_management.php 25
+ERROR - 2020-03-18 21:35:03 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\sisven\application\controllers\User_management.php 24
+ERROR - 2020-03-18 21:35:03 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\sisven\application\controllers\User_management.php 25
+ERROR - 2020-03-18 21:35:54 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\sisven\application\controllers\User_management.php 24
+ERROR - 2020-03-18 21:35:54 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\sisven\application\controllers\User_management.php 25
+ERROR - 2020-03-18 21:38:06 --> A problem was encountered while attempting to move the uploaded file to the final destination.
+ERROR - 2020-03-18 21:40:18 --> A problem was encountered while attempting to move the uploaded file to the final destination.
+ERROR - 2020-03-18 21:42:15 --> A problem was encountered while attempting to move the uploaded file to the final destination.
+ERROR - 2020-03-18 22:00:07 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\sisven\application\views\template\home.php 97

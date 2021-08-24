@@ -1,0 +1,12 @@
+ERROR - 2020-08-13 00:00:17 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 64
+ERROR - 2020-08-13 00:00:17 --> Severity: Warning --> unlink(assets/images/avatar_kar/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 64
+ERROR - 2020-08-13 00:00:50 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 65
+ERROR - 2020-08-13 00:00:50 --> Severity: Warning --> unlink(assets/images/avatar_kar/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 65
+ERROR - 2020-08-13 00:03:32 --> Severity: Warning --> unlink(assets/images/avatar_kar/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 66
+ERROR - 2020-08-13 00:13:17 --> Severity: Warning --> unlink(assets/images/avatar_kar/20200813120602.jpg): No such file or directory C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 148
+ERROR - 2020-08-13 00:53:53 --> Severity: error --> Exception: syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file C:\xampp\htdocs\companyprofile\adm123\application\views\template\profile.php 95
+ERROR - 2020-08-13 01:22:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\sidebar.php 12
+ERROR - 2020-08-13 01:22:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 83
+ERROR - 2020-08-13 01:22:49 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 90
+ERROR - 2020-08-13 01:37:28 --> Severity: Notice --> Undefined property: ContentController::$m_user C:\xampp\htdocs\companyprofile\adm123\application\controllers\ContentController.php 44
+ERROR - 2020-08-13 01:37:28 --> Severity: error --> Exception: Call to a member function get_user_by_id() on null C:\xampp\htdocs\companyprofile\adm123\application\controllers\ContentController.php 44

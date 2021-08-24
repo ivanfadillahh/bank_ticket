@@ -1,0 +1,43 @@
+ERROR - 2020-08-29 10:54:27 --> Severity: Notice --> Undefined index: data C:\xampp\htdocs\bank\application\controllers\HomeController.php 415
+ERROR - 2020-08-29 06:06:04 --> Severity: error --> Exception: syntax error, unexpected 'Cus' (T_STRING) C:\xampp\htdocs\bank\application\controllers\HomeController.php 416
+ERROR - 2020-08-29 14:17:10 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 419
+ERROR - 2020-08-29 14:20:59 --> Severity: Notice --> Undefined variable: date C:\xampp\htdocs\bank\application\controllers\HomeController.php 183
+ERROR - 2020-08-29 14:20:59 --> Severity: Warning --> date_format() expects parameter 1 to be DateTimeInterface, null given C:\xampp\htdocs\bank\application\controllers\HomeController.php 183
+ERROR - 2020-08-29 14:31:01 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 395
+ERROR - 2020-08-29 14:33:49 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 395
+ERROR - 2020-08-29 14:34:06 --> Severity: Warning --> Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\bank\application\controllers\HomeController.php 41
+ERROR - 2020-08-29 14:34:41 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 44
+ERROR - 2020-08-29 14:34:47 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\bank\application\controllers\HomeController.php 45
+ERROR - 2020-08-29 14:34:51 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\bank\application\controllers\HomeController.php 45
+ERROR - 2020-08-29 14:35:14 --> Severity: Notice --> Undefined index: data C:\xampp\htdocs\bank\application\controllers\HomeController.php 44
+ERROR - 2020-08-29 14:35:20 --> Severity: Notice --> Undefined index: tellerQueue C:\xampp\htdocs\bank\application\controllers\HomeController.php 44
+ERROR - 2020-08-29 14:35:35 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 44
+ERROR - 2020-08-29 14:36:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\bank\application\controllers\HomeController.php 46
+ERROR - 2020-08-29 14:36:37 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 44
+ERROR - 2020-08-29 14:36:56 --> Severity: Notice --> Trying to get property 'array' of non-object C:\xampp\htdocs\bank\application\controllers\HomeController.php 44
+ERROR - 2020-08-29 09:38:42 --> Severity: error --> Exception: syntax error, unexpected '}', expecting ',' or ';' C:\xampp\htdocs\bank\application\controllers\HomeController.php 48
+ERROR - 2020-08-29 09:38:57 --> Severity: error --> Exception: syntax error, unexpected '}', expecting ',' or ';' C:\xampp\htdocs\bank\application\controllers\HomeController.php 50
+ERROR - 2020-08-29 15:25:07 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 422
+ERROR - 2020-08-29 15:25:08 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 422
+ERROR - 2020-08-29 15:25:09 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 422
+ERROR - 2020-08-29 15:25:10 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 422
+ERROR - 2020-08-29 15:25:11 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 422
+ERROR - 2020-08-29 15:25:11 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 422
+ERROR - 2020-08-29 15:25:12 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 422
+ERROR - 2020-08-29 15:25:13 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 422
+ERROR - 2020-08-29 15:25:14 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 422
+ERROR - 2020-08-29 15:25:19 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 422
+ERROR - 2020-08-29 15:25:21 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 422
+ERROR - 2020-08-29 15:26:55 --> Severity: Notice --> Undefined variable: response1 C:\xampp\htdocs\bank\application\controllers\HomeController.php 178
+ERROR - 2020-08-29 15:27:22 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 508
+ERROR - 2020-08-29 15:28:53 --> Severity: Notice --> Undefined variable: date C:\xampp\htdocs\bank\application\controllers\HomeController.php 268
+ERROR - 2020-08-29 15:28:53 --> Severity: Warning --> date_format() expects parameter 1 to be DateTimeInterface, null given C:\xampp\htdocs\bank\application\controllers\HomeController.php 268
+ERROR - 2020-08-29 15:58:32 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 296
+ERROR - 2020-08-29 16:28:56 --> Severity: Notice --> Undefined index: data C:\xampp\htdocs\bank\application\controllers\HomeController.php 75
+ERROR - 2020-08-29 16:29:18 --> Severity: Notice --> Undefined index: data C:\xampp\htdocs\bank\application\controllers\HomeController.php 75
+ERROR - 2020-08-29 16:29:29 --> Severity: Notice --> Undefined index: data C:\xampp\htdocs\bank\application\controllers\HomeController.php 75
+ERROR - 2020-08-29 16:29:50 --> Severity: Notice --> Undefined index: data C:\xampp\htdocs\bank\application\controllers\HomeController.php 75
+ERROR - 2020-08-29 16:51:26 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 404
+ERROR - 2020-08-29 17:20:26 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 519
+ERROR - 2020-08-29 17:20:28 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 519
+ERROR - 2020-08-29 19:14:36 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 433

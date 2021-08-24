@@ -1,0 +1,95 @@
+ERROR - 2020-08-11 00:23:36 --> Severity: Warning --> unlink(assets/images/carrousel/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 240
+ERROR - 2020-08-11 00:23:54 --> Query error: Unknown column 'id_' in 'where clause' - Invalid query: UPDATE `carrousel` SET `title` = 'test1', `information` = 'test aja  nih1'
+WHERE `id_` = '9'
+ERROR - 2020-08-11 00:23:55 --> Query error: Unknown column 'id_' in 'where clause' - Invalid query: UPDATE `carrousel` SET `title` = 'test1', `information` = 'test aja  nih1'
+WHERE `id_` = '9'
+ERROR - 2020-08-11 00:25:29 --> Query error: Unknown column 'id_' in 'where clause' - Invalid query: UPDATE `carrousel` SET `title` = 'test', `information` = 'test aja  nih'
+WHERE `id_` = '9'
+ERROR - 2020-08-11 00:25:41 --> Query error: Unknown column 'id_' in 'where clause' - Invalid query: UPDATE `carrousel` SET `title` = 'test 2', `information` = 'test 2'
+WHERE `id_` = '10'
+ERROR - 2020-08-11 00:27:45 --> Query error: Unknown column 'id_' in 'where clause' - Invalid query: UPDATE `carrousel` SET `title` = 'test 2', `information` = 'test 2'
+WHERE `id_` = '10'
+ERROR - 2020-08-11 00:44:24 --> Query error: Unknown column 'id' in 'where clause' - Invalid query: UPDATE `carrousel` SET `title` = 'asdasa1', `information` = 'asdasd1'
+WHERE `id` = '1'
+ERROR - 2020-08-11 00:44:25 --> Query error: Unknown column 'id' in 'where clause' - Invalid query: UPDATE `carrousel` SET `title` = 'asdasa1', `information` = 'asdasd1'
+WHERE `id` = '1'
+ERROR - 2020-08-11 00:45:11 --> Query error: Unknown column 'id' in 'where clause' - Invalid query: UPDATE `carrousel` SET `title` = 'asdasa1', `information` = 'asdasd1', `photo` = '20200811124511.jpg'
+WHERE `id` = '1'
+ERROR - 2020-08-11 01:00:51 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 110
+ERROR - 2020-08-11 01:00:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 110
+ERROR - 2020-08-11 01:00:51 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 188
+ERROR - 2020-08-11 01:00:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 188
+ERROR - 2020-08-11 01:01:02 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 110
+ERROR - 2020-08-11 01:01:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 110
+ERROR - 2020-08-11 01:01:02 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 188
+ERROR - 2020-08-11 01:01:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 188
+ERROR - 2020-08-11 01:08:47 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 129
+ERROR - 2020-08-11 01:08:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 129
+ERROR - 2020-08-11 01:09:07 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:09:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:09:14 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:09:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:09:36 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:09:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:09:53 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:09:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:10:21 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:10:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:10:28 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:10:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:10:42 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:10:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\vision.php 125
+ERROR - 2020-08-11 01:18:34 --> Severity: error --> Exception: Call to undefined method M_user::get_vision() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 480
+ERROR - 2020-08-11 01:18:48 --> Severity: error --> Exception: Call to undefined method M_user::get_vision() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 480
+ERROR - 2020-08-11 01:30:02 --> Severity: error --> Exception: Call to undefined method M_user::get_vision_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 513
+ERROR - 2020-08-11 01:30:25 --> Severity: error --> Exception: Call to undefined method M_user::get_vision_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 513
+ERROR - 2020-08-11 01:30:26 --> Severity: error --> Exception: Call to undefined method M_user::get_vision_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 513
+ERROR - 2020-08-11 01:31:10 --> Severity: error --> Exception: Call to undefined method M_user::get_vision_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 513
+ERROR - 2020-08-11 01:31:13 --> Severity: error --> Exception: Call to undefined method M_user::get_vision_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 513
+ERROR - 2020-08-11 01:36:34 --> Query error: Unknown column 'vision' in 'field list' - Invalid query: UPDATE `user` SET `vision` = 'a'
+WHERE `id` = '3'
+ERROR - 2020-08-11 02:35:04 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 60
+ERROR - 2020-08-11 02:35:26 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 60
+ERROR - 2020-08-11 02:35:40 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 60
+ERROR - 2020-08-11 02:36:27 --> Severity: Notice --> Undefined index: email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 60
+ERROR - 2020-08-11 02:36:48 --> Severity: Notice --> Undefined index: email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 60
+ERROR - 2020-08-11 02:37:00 --> Severity: Notice --> Undefined index: email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 60
+ERROR - 2020-08-11 02:37:07 --> Severity: Notice --> Undefined index: email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 60
+ERROR - 2020-08-11 02:37:10 --> Severity: Notice --> Undefined index: email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 60
+ERROR - 2020-08-11 02:37:46 --> Severity: Notice --> Undefined index: email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 60
+ERROR - 2020-08-11 02:38:41 --> Severity: Notice --> Undefined index: email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 60
+ERROR - 2020-08-11 02:51:12 --> Severity: Warning --> Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 51
+ERROR - 2020-08-11 02:51:12 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\information.php 51
+ERROR - 2020-08-11 03:14:39 --> Severity: Warning --> Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\dashboard.php 17
+ERROR - 2020-08-11 03:14:39 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\dashboard.php 17
+ERROR - 2020-08-11 03:15:48 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\dashboard.php 17
+ERROR - 2020-08-11 03:17:34 --> Severity: error --> Exception: Call to undefined method M_user::get_res_user() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 29
+ERROR - 2020-08-11 03:23:32 --> Severity: Warning --> unlink(assets/images/product/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 399
+ERROR - 2020-08-11 06:43:34 --> Severity: error --> Exception: syntax error, unexpected ''assets'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 42
+ERROR - 2020-08-11 02:57:59 --> 404 Page Not Found: AdminController/carrousel
+ERROR - 2020-08-11 02:58:17 --> 404 Page Not Found: AdminController/carrousel
+ERROR - 2020-08-11 02:58:43 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:58:43 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:58:43 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 07:58:53 --> The upload path does not appear to be valid.
+ERROR - 2020-08-11 02:58:53 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:58:53 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:58:53 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:58:56 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:58:56 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:58:56 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 07:59:04 --> The upload path does not appear to be valid.
+ERROR - 2020-08-11 02:59:05 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:59:05 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:59:05 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:59:06 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:59:06 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 02:59:06 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 08:22:30 --> Severity: Warning --> unlink(assets/images/product/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 92
+ERROR - 2020-08-11 03:22:30 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-11 08:27:14 --> Severity: Warning --> unlink(assets/images/avatar_kar/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 92
+ERROR - 2020-08-11 03:56:05 --> 404 Page Not Found: ContentController/carousel
+ERROR - 2020-08-11 16:18:43 --> Severity: Notice --> Undefined index: sess_name C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\sidebar.php 12
+ERROR - 2020-08-11 17:39:12 --> Severity: Warning --> unlink(assets/images/carousel/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 301
+ERROR - 2020-08-11 18:39:48 --> Severity: Warning --> unlink(assets/images/product/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 465
+ERROR - 2020-08-11 18:41:05 --> Severity: Warning --> unlink(assets/images/product/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 465

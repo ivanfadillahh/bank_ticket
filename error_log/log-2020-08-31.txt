@@ -1,0 +1,17 @@
+ERROR - 2020-08-31 05:49:34 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 05:49:45 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:00:35 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:01:43 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:01:52 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:02:06 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:23:47 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:23:57 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:24:05 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:24:26 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:24:44 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:25:05 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:25:19 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:25:35 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 06:25:53 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-31 14:43:33 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 402
+ERROR - 2020-08-31 13:32:56 --> Severity: error --> Exception: Unable to locate the model you have specified: M_bank C:\xampp\htdocs\bank\system\core\Loader.php 348

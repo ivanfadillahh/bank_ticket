@@ -1,0 +1,61 @@
+ERROR - 2020-08-16 15:35:10 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-16 20:39:02 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\sidebar.php 3
+ERROR - 2020-08-16 20:39:02 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 79
+ERROR - 2020-08-16 20:39:50 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\sidebar.php 7
+ERROR - 2020-08-16 20:39:50 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 79
+ERROR - 2020-08-16 20:40:09 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\sidebar.php 7
+ERROR - 2020-08-16 20:40:09 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 79
+ERROR - 2020-08-16 20:40:20 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 79
+ERROR - 2020-08-16 20:40:42 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 79
+ERROR - 2020-08-16 20:41:17 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 79
+ERROR - 2020-08-16 15:50:19 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-16 20:58:34 --> Severity: Warning --> unlink(assets/images/product/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 813
+ERROR - 2020-08-16 15:58:35 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-16 15:58:35 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-16 21:11:14 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 806
+ERROR - 2020-08-16 21:11:14 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 807
+ERROR - 2020-08-16 21:12:09 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 806
+ERROR - 2020-08-16 21:12:09 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 807
+ERROR - 2020-08-16 21:18:51 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 806
+ERROR - 2020-08-16 21:18:51 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 807
+ERROR - 2020-08-16 21:19:34 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 806
+ERROR - 2020-08-16 21:19:34 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 807
+ERROR - 2020-08-16 21:24:21 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 813
+ERROR - 2020-08-16 21:26:02 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 813
+ERROR - 2020-08-16 16:36:48 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-16 16:36:48 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-16 21:36:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 64
+ERROR - 2020-08-16 21:37:00 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 64
+ERROR - 2020-08-16 21:37:30 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 816
+ERROR - 2020-08-16 21:37:43 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 816
+ERROR - 2020-08-16 21:43:34 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 816
+ERROR - 2020-08-16 21:48:41 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 816
+ERROR - 2020-08-16 21:50:02 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 816
+ERROR - 2020-08-16 16:50:26 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-16 21:51:06 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 816
+ERROR - 2020-08-16 16:51:15 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-16 16:51:47 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-16 16:51:57 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-16 16:52:07 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-16 16:52:31 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-16 16:52:37 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-16 21:52:43 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 816
+ERROR - 2020-08-16 16:53:04 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-16 16:53:19 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-16 21:54:09 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 816
+ERROR - 2020-08-16 21:55:28 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\views\template\content\sidebar.php 3
+ERROR - 2020-08-16 21:55:28 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 76
+ERROR - 2020-08-16 21:55:43 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\views\template\content\sidebar.php 3
+ERROR - 2020-08-16 21:55:43 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 76
+ERROR - 2020-08-16 21:56:05 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\views\template\content\sidebar.php 3
+ERROR - 2020-08-16 21:56:05 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 76
+ERROR - 2020-08-16 21:56:21 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 76
+ERROR - 2020-08-16 21:56:36 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 76
+ERROR - 2020-08-16 21:56:55 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 76
+ERROR - 2020-08-16 21:57:06 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 76
+ERROR - 2020-08-16 21:58:42 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\content\sidebar.php 3
+ERROR - 2020-08-16 21:59:20 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\content\information.php 134
+ERROR - 2020-08-16 21:59:53 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\content\information.php 134
+ERROR - 2020-08-16 22:00:33 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\companyprofile\adm123\application\views\template\content\information.php 134
+ERROR - 2020-08-16 22:02:12 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\ContentController.php 666
+ERROR - 2020-08-16 22:02:22 --> Severity: Warning --> unlink(assets/images/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\ContentController.php 666

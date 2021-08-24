@@ -1,0 +1,214 @@
+ERROR - 2020-08-28 07:27:15 --> 404 Page Not Found: Homecontroller/index
+ERROR - 2020-08-28 07:27:22 --> 404 Page Not Found: HomeController/index
+ERROR - 2020-08-28 12:29:14 --> Severity: Notice --> Undefined variable: sidebar C:\xampp\htdocs\bank\application\libraries\Template.php 23
+ERROR - 2020-08-28 12:29:44 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\bank\application\views\template\home.php 17
+ERROR - 2020-08-28 12:29:44 --> Severity: error --> Exception: Call to a member function num_rows() on null C:\xampp\htdocs\bank\application\views\template\home.php 17
+ERROR - 2020-08-28 12:30:04 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\bank\application\views\template\index.php 76
+ERROR - 2020-08-28 12:30:04 --> Severity: Notice --> Undefined variable: sidebar C:\xampp\htdocs\bank\application\views\template\index.php 125
+ERROR - 2020-08-28 12:30:26 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\bank\application\views\template\index.php 76
+ERROR - 2020-08-28 07:30:36 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 12:30:48 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\bank\application\views\template\index.php 76
+ERROR - 2020-08-28 07:30:48 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 12:32:31 --> Severity: Notice --> Undefined variable: photo C:\xampp\htdocs\bank\application\views\template\index.php 76
+ERROR - 2020-08-28 07:35:08 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 07:35:29 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 07:47:08 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 07:47:10 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 07:47:13 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:12:43 --> Query error: Table 'wpk.customer_service' doesn't exist - Invalid query: SELECT *
+FROM `customer_service`
+ LIMIT 1
+ERROR - 2020-08-28 13:13:19 --> Query error: Table 'wpk.customer_service' doesn't exist - Invalid query: SELECT *
+FROM `customer_service`
+ LIMIT 1
+ERROR - 2020-08-28 13:13:27 --> Query error: Table 'wpk.customer_service' doesn't exist - Invalid query: SELECT *
+FROM `customer_service`
+ LIMIT 1
+ERROR - 2020-08-28 13:13:59 --> Query error: Table 'wpk.customer_service' doesn't exist - Invalid query: SELECT *
+FROM `customer_service`
+ LIMIT 1
+ERROR - 2020-08-28 13:14:06 --> Query error: Table 'wpk.customer_service' doesn't exist - Invalid query: SELECT *
+FROM `customer_service`
+ LIMIT 1
+ERROR - 2020-08-28 13:32:17 --> Query error: Table 'wpk.customer_service' doesn't exist - Invalid query: SELECT *
+FROM `customer_service`
+ LIMIT 1
+ERROR - 2020-08-28 13:35:27 --> Query error: Table 'wpk.customer_service' doesn't exist - Invalid query: SELECT *
+FROM `customer_service`
+ LIMIT 1
+ERROR - 2020-08-28 08:59:24 --> 404 Page Not Found: Teller/index
+ERROR - 2020-08-28 10:25:24 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 10:44:16 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 10:46:22 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:28:00 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:28:13 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:28:40 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:29:36 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:29:48 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:29:53 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 16:33:57 --> Severity: error --> Exception: Too few arguments to function HomeController::get_current_cs(), 0 passed in C:\xampp\htdocs\bank\system\core\CodeIgniter.php on line 532 and exactly 1 expected C:\xampp\htdocs\bank\application\controllers\HomeController.php 77
+ERROR - 2020-08-28 11:33:57 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 16:34:17 --> Severity: Warning --> A non-numeric value encountered C:\xampp\htdocs\bank\application\controllers\HomeController.php 92
+ERROR - 2020-08-28 16:34:17 --> Severity: Warning --> A non-numeric value encountered C:\xampp\htdocs\bank\application\controllers\HomeController.php 92
+ERROR - 2020-08-28 11:34:18 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:34:36 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 16:34:37 --> Severity: error --> Exception: Too few arguments to function HomeController::get_current_cs(), 0 passed in C:\xampp\htdocs\bank\system\core\CodeIgniter.php on line 532 and exactly 1 expected C:\xampp\htdocs\bank\application\controllers\HomeController.php 77
+ERROR - 2020-08-28 16:34:49 --> Severity: error --> Exception: Too few arguments to function HomeController::get_current_cs(), 0 passed in C:\xampp\htdocs\bank\system\core\CodeIgniter.php on line 532 and exactly 1 expected C:\xampp\htdocs\bank\application\controllers\HomeController.php 77
+ERROR - 2020-08-28 11:34:50 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:36:50 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:36:56 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:37:00 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:37:15 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:37:19 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 16:38:23 --> Severity: Notice --> Undefined variable: cs_number C:\xampp\htdocs\bank\application\controllers\HomeController.php 93
+ERROR - 2020-08-28 16:38:23 --> Severity: Warning --> A non-numeric value encountered C:\xampp\htdocs\bank\application\controllers\HomeController.php 93
+ERROR - 2020-08-28 16:38:23 --> Severity: Warning --> A non-numeric value encountered C:\xampp\htdocs\bank\application\controllers\HomeController.php 93
+ERROR - 2020-08-28 11:38:23 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 16:38:45 --> Severity: Notice --> Undefined variable: cs_number C:\xampp\htdocs\bank\application\controllers\HomeController.php 93
+ERROR - 2020-08-28 11:38:46 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:38:52 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 16:38:53 --> Severity: Notice --> Undefined variable: cs_number C:\xampp\htdocs\bank\application\controllers\HomeController.php 93
+ERROR - 2020-08-28 11:39:07 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 16:39:07 --> Severity: Notice --> Undefined variable: cs_number C:\xampp\htdocs\bank\application\controllers\HomeController.php 93
+ERROR - 2020-08-28 11:39:12 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:40:27 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:40:42 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:41:10 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:41:22 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:41:36 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:42:12 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:45:17 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:45:31 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 11:51:59 --> 404 Page Not Found: HomeController/get_current_teller
+ERROR - 2020-08-28 11:52:03 --> 404 Page Not Found: HomeController/get_current_teller
+ERROR - 2020-08-28 11:52:51 --> 404 Page Not Found: HomeController/get_current_teller
+ERROR - 2020-08-28 11:53:06 --> 404 Page Not Found: HomeController/get_current_teller
+ERROR - 2020-08-28 11:53:06 --> 404 Page Not Found: HomeController/get_current_teller
+ERROR - 2020-08-28 12:02:01 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 12:02:25 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 12:21:53 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 12:23:03 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 12:23:20 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 12:23:42 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:26:27 --> Severity: Warning --> Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 17:26:44 --> Severity: Warning --> Illegal string offset 'data' C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 17:27:16 --> Severity: Warning --> Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\bank\application\controllers\HomeController.php 43
+ERROR - 2020-08-28 17:27:45 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\bank\application\controllers\HomeController.php 43
+ERROR - 2020-08-28 17:29:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\bank\application\controllers\HomeController.php 41
+ERROR - 2020-08-28 17:29:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\bank\application\controllers\HomeController.php 43
+ERROR - 2020-08-28 17:29:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\bank\application\controllers\HomeController.php 43
+ERROR - 2020-08-28 17:30:53 --> Severity: Warning --> Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 17:31:29 --> Severity: Warning --> Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 17:31:29 --> Severity: Warning --> Illegal string offset 'data' C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 17:31:57 --> Severity: Notice --> Trying to get property 'data' of non-object C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 17:32:15 --> Severity: Notice --> Trying to get property 'data' of non-object C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:33:14 --> Severity: Notice --> Trying to get property 'data' of non-object C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 17:33:21 --> Severity: Notice --> Trying to get property 'data' of non-object C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 17:34:41 --> Severity: Notice --> Trying to get property 'csQueues' of non-object C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 17:35:13 --> Severity: Notice --> Trying to get property 'csQueues' of non-object C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:35:23 --> Severity: Warning --> Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:35:32 --> Severity: Warning --> Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:35:38 --> Severity: Warning --> Illegal string offset 'data' C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:35:41 --> Severity: Warning --> Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:35:41 --> Severity: Warning --> Illegal string offset 'data' C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:36:41 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:36:47 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:36:49 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:38:13 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:38:13 --> Severity: Notice --> Undefined variable: result C:\xampp\htdocs\bank\application\controllers\HomeController.php 44
+ERROR - 2020-08-28 17:38:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\bank\application\controllers\HomeController.php 44
+ERROR - 2020-08-28 17:38:24 --> Severity: Notice --> Undefined variable: result C:\xampp\htdocs\bank\application\controllers\HomeController.php 44
+ERROR - 2020-08-28 17:38:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\bank\application\controllers\HomeController.php 44
+ERROR - 2020-08-28 17:38:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\bank\application\controllers\HomeController.php 44
+ERROR - 2020-08-28 17:39:28 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:40:28 --> Severity: Warning --> file_get_contents({&quot;data&quot;:{&quot;csQueues&quot;:[{&quot;number&quot;:6,&quot;tanggal&quot;:&quot;2020-08-28&quot;}]}}
+): failed to open stream: No such file or directory C:\xampp\htdocs\bank\application\controllers\HomeController.php 41
+ERROR - 2020-08-28 17:40:28 --> Severity: Notice --> Trying to get property 'data' of non-object C:\xampp\htdocs\bank\application\controllers\HomeController.php 43
+ERROR - 2020-08-28 17:41:54 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:42:06 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:42:10 --> Severity: Notice --> Undefined property: stdClass::$csQueues C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:43:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:43:26 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:43:34 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 17:43:55 --> Severity: Warning --> Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\bank\application\controllers\HomeController.php 41
+ERROR - 2020-08-28 17:44:23 --> Severity: Warning --> Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 17:44:33 --> Severity: Notice --> Trying to get property 'data' of non-object C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 18:18:13 --> Severity: Notice --> Trying to get property 'data' of non-object C:\xampp\htdocs\bank\application\controllers\HomeController.php 40
+ERROR - 2020-08-28 18:20:09 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 18:20:15 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 18:21:03 --> Severity: Notice --> Trying to get property 'csQueues' of non-object C:\xampp\htdocs\bank\application\controllers\HomeController.php 42
+ERROR - 2020-08-28 13:23:07 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:23:39 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:23:55 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:24:00 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:24:20 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:24:27 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:24:42 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:28:01 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:41:53 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:45:04 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:47:48 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:48:18 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:48:40 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 13:48:56 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:20:05 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:20:07 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:20:17 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:20:36 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:20:52 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:23:44 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:23:52 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:23:57 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:24:27 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:24:33 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:26:09 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:36:36 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:42:38 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:44:06 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:45:04 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:45:17 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:45:23 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:45:40 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 22:45:42 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\bank\application\controllers\HomeController.php 279
+ERROR - 2020-08-28 17:45:51 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 22:45:54 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\bank\application\controllers\HomeController.php 279
+ERROR - 2020-08-28 17:46:16 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:46:33 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:46:42 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:47:17 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:47:41 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 22:47:42 --> Severity: Warning --> Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) C:\xampp\htdocs\bank\application\controllers\HomeController.php 277
+ERROR - 2020-08-28 17:47:50 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:48:02 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:50:04 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:51:52 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:51:56 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:53:02 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:53:09 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:53:30 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:53:40 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:54:01 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:56:06 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:57:31 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:57:45 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:57:59 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:58:04 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:58:08 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:58:38 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 17:59:32 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 18:01:15 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 18:02:21 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 18:02:45 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 18:04:01 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 18:05:16 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 18:08:47 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 18:09:17 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 18:09:42 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 18:10:07 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 18:10:36 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-28 23:32:56 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 67
+ERROR - 2020-08-28 23:33:04 --> Severity: Notice --> Undefined index: id C:\xampp\htdocs\bank\application\controllers\HomeController.php 67
+ERROR - 2020-08-28 23:33:44 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\bank\application\controllers\HomeController.php 67
+ERROR - 2020-08-28 18:34:00 --> Severity: error --> Exception: syntax error, unexpected '}', expecting ',' or ';' C:\xampp\htdocs\bank\application\controllers\HomeController.php 70
+ERROR - 2020-08-28 23:34:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\bank\application\controllers\HomeController.php 69
+ERROR - 2020-08-28 23:38:35 --> Severity: Notice --> Undefined variable: cs C:\xampp\htdocs\bank\application\controllers\HomeController.php 81

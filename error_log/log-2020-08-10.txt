@@ -1,0 +1,849 @@
+ERROR - 2020-08-10 00:37:54 --> Severity: Notice --> Undefined property: AdminController::$m_user C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 28
+ERROR - 2020-08-10 00:37:54 --> Severity: error --> Exception: Call to a member function get_users() on null C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 28
+ERROR - 2020-08-10 00:38:09 --> Query error: Table 'wpk.user_admin' doesn't exist - Invalid query: SELECT *
+FROM `user_admin`
+ERROR - 2020-08-10 00:38:21 --> Query error: Table 'wpk.user_admin' doesn't exist - Invalid query: SELECT *
+FROM `user_admin`
+WHERE `id` = '1'
+ERROR - 2020-08-10 00:38:34 --> Query error: Table 'wpk.user_admin' doesn't exist - Invalid query: SELECT *
+FROM `user_admin`
+WHERE `id` = '1'
+ERROR - 2020-08-10 00:38:42 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:38:42 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:38:42 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:38:42 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:38:42 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:38:42 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:38:42 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:38:42 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:38:52 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:38:52 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:38:52 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:38:52 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:38:52 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:38:52 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:38:52 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:38:52 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:39:12 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:39:12 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:39:12 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:39:12 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:39:12 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:39:12 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:39:12 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:39:12 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:39:18 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:39:18 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:39:18 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:39:18 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:39:18 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:39:18 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:39:18 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:39:18 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:39:31 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:39:31 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:39:31 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:39:31 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:39:31 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:39:31 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:39:31 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:39:31 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:39:32 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:39:32 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:39:32 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:39:32 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:39:32 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:39:32 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:39:32 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:39:32 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:39:36 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:39:36 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:39:36 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:39:36 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:39:36 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:39:36 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:39:36 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:39:36 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:40:17 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:40:17 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:40:17 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:40:17 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:40:17 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:40:17 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:40:17 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:40:17 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:40:19 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:40:19 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:40:19 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:40:19 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:40:19 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:40:19 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:40:19 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:40:19 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:42:23 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:42:23 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:42:23 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:42:23 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:42:23 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:42:23 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:42:23 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:42:23 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:42:26 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:42:26 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:42:26 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:42:26 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:42:26 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:42:26 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:42:26 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:42:26 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:42:49 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:42:49 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:42:49 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:42:49 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:42:49 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:42:49 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:42:49 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:42:49 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:42:53 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:42:53 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:42:53 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:42:53 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:42:53 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:42:53 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:42:53 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:42:53 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:42:55 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:42:55 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:42:55 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:42:55 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:42:55 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:42:55 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:42:55 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:42:55 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:44:21 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:44:21 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:44:21 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:44:21 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:44:21 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:44:21 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:44:21 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:44:21 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:44:37 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:44:37 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:44:37 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:44:37 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:44:37 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 00:44:37 --> Severity: Notice --> Undefined property: stdClass::$email C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 186
+ERROR - 2020-08-10 00:44:37 --> Severity: Notice --> Undefined property: stdClass::$phone_number C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 187
+ERROR - 2020-08-10 00:44:37 --> Severity: Notice --> Undefined property: stdClass::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 188
+ERROR - 2020-08-10 00:47:32 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 00:47:32 --> Severity: Notice --> Undefined property: stdClass::$nik C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 00:52:07 --> Query error: Unknown column 'role' in 'field list' - Invalid query: INSERT INTO `user` (`username`, `name`, `password`, `photo`, `registration_date`, `role`) VALUES ('ade', 'ade wiranata putra', 'wiranta94', '20200810125207.jpg', '2020-08-10 00:52:07', '2')
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Undefined property: mysqli::$username C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Undefined property: mysqli::$name C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Undefined property: mysqli::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Undefined property: mysqli::$id C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Undefined property: mysqli_result::$username C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Undefined property: mysqli_result::$name C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Undefined property: mysqli_result::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Undefined property: mysqli_result::$id C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:05:21 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Undefined property: mysqli::$username C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Undefined property: mysqli::$name C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Undefined property: mysqli::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Undefined property: mysqli::$id C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Undefined property: mysqli_result::$username C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Undefined property: mysqli_result::$name C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Undefined property: mysqli_result::$registration_date C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Undefined property: mysqli_result::$id C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 168
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 169
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 170
+ERROR - 2020-08-10 01:07:19 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 01:19:57 --> Severity: Notice --> Undefined variable: navbar C:\xampp\htdocs\companyprofile\adm123\application\libraries\Template.php 23
+ERROR - 2020-08-10 01:38:32 --> Severity: error --> Exception: syntax error, unexpected end of file C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 245
+ERROR - 2020-08-10 01:38:35 --> Severity: error --> Exception: syntax error, unexpected end of file C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 245
+ERROR - 2020-08-10 01:39:07 --> Severity: error --> Exception: syntax error, unexpected end of file C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 245
+ERROR - 2020-08-10 01:39:26 --> Severity: error --> Exception: syntax error, unexpected end of file C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 245
+ERROR - 2020-08-10 01:49:48 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 132
+ERROR - 2020-08-10 01:49:50 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 132
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 12:43:15 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 12:45:05 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 13:11:15 --> Severity: error --> Exception: syntax error, unexpected ';' C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 159
+ERROR - 2020-08-10 13:11:16 --> Severity: error --> Exception: syntax error, unexpected ';' C:\xampp\htdocs\companyprofile\adm123\application\views\template\index.php 159
+ERROR - 2020-08-10 08:11:35 --> 404 Page Not Found: Assetsa/js
+ERROR - 2020-08-10 08:11:35 --> 404 Page Not Found: Assetsa/js
+ERROR - 2020-08-10 08:18:17 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-10 08:18:18 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-10 08:18:18 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-10 13:34:58 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 46
+ERROR - 2020-08-10 13:35:03 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 46
+ERROR - 2020-08-10 13:35:14 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 46
+ERROR - 2020-08-10 08:51:57 --> 404 Page Not Found: AdminController/undefined
+ERROR - 2020-08-10 09:08:42 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 09:08:42 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 09:09:02 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 09:09:02 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 09:30:13 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:30:23 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:31:21 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:31:25 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:32:48 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:32:59 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:33:01 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:33:55 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:34:26 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:35:24 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:35:31 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:36:07 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:36:31 --> 404 Page Not Found: Assets/vendors
+ERROR - 2020-08-10 09:36:31 --> 404 Page Not Found: Assets/vendors
+ERROR - 2020-08-10 09:40:03 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:40:18 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:40:44 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 09:40:51 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:08:23 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:09:05 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:09:05 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:09:11 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:09:13 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:09:31 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:09:31 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:09:35 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:10:07 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:10:11 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:10:11 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 11:10:14 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:10:14 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:10:21 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:10:21 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:10:50 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:10:50 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:11:01 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:11:02 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:11:10 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:11:11 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 16:11:24 --> Severity: Notice --> Undefined variable: id C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 67
+ERROR - 2020-08-10 11:11:26 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:11:26 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:12:36 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:12:36 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 16:12:40 --> Severity: Notice --> Undefined variable: id C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 68
+ERROR - 2020-08-10 11:12:42 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:12:42 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:13:02 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:13:02 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 16:13:06 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 65
+ERROR - 2020-08-10 11:13:17 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:13:18 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:13:25 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:13:25 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:14:08 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:14:08 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:14:15 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:14:15 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:14:23 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:14:23 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:15:03 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:15:03 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:15:08 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:15:08 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:15:15 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:15:16 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:18:28 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:18:29 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 16:18:33 --> Severity: Notice --> Undefined variable: id C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 69
+ERROR - 2020-08-10 11:18:35 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:18:35 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:19:26 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:19:26 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:19:51 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:19:51 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:21:14 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:21:14 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:21:46 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:21:46 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:27:33 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:27:33 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:27:39 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:27:40 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:28:58 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:28:58 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:29:06 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:29:06 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:29:42 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:29:42 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:30:04 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:30:04 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:30:05 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:30:05 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:30:40 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:30:41 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:30:41 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:30:41 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:31:05 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:31:06 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:31:06 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:31:06 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:31:30 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:31:30 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:31:58 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:31:58 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:05 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:05 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:07 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:07 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:11 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:11 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:28 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:28 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:34 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:34 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:35 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:36 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:41 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:41 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:43 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:32:54 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:54 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:32:55 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:32:56 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:33:20 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:33:20 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:33:21 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:33:22 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:33:23 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:33:23 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:33:34 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:33:34 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:33:34 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:33:47 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:33:48 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:33:48 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:33:49 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:34:51 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:34:51 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:34:51 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:35:14 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:35:15 --> 404 Page Not Found: AdminController/get_all_user
+ERROR - 2020-08-10 11:35:15 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 16:35:41 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 16:35:41 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 16:35:41 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 16:35:42 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 11:35:42 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:35:42 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:35:42 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'username' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 181
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'name' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 182
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'name_role' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 183
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'registration_date' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 184
+ERROR - 2020-08-10 16:35:52 --> Severity: Notice --> Trying to get property 'id' of non-object C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\account_setting.php 200
+ERROR - 2020-08-10 11:35:52 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:35:52 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:37:15 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:37:15 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:37:15 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:37:26 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:37:29 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:37:30 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:37:30 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:37:30 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:37:45 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:37:48 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:37:49 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:37:49 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:38:32 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:38:54 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:38:59 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:38:59 --> 404 Page Not Found: AdminController/assets
+ERROR - 2020-08-10 11:38:59 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:39:14 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:39:16 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 11:39:17 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 16:56:18 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 16:56:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 16:56:18 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 227
+ERROR - 2020-08-10 16:56:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 227
+ERROR - 2020-08-10 16:58:38 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 16:58:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 16:58:38 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 227
+ERROR - 2020-08-10 16:58:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 227
+ERROR - 2020-08-10 16:58:41 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 16:58:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 16:58:41 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 227
+ERROR - 2020-08-10 16:58:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 227
+ERROR - 2020-08-10 17:00:38 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 143
+ERROR - 2020-08-10 17:00:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 143
+ERROR - 2020-08-10 17:00:53 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 143
+ERROR - 2020-08-10 17:00:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 143
+ERROR - 2020-08-10 17:03:28 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 17:03:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 17:03:59 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 17:03:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 17:07:28 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 17:07:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 17:07:39 --> Query error: Unknown column 'photo' in 'field list' - Invalid query: INSERT INTO `carrousel` (`title_carrousel`, `information_carrousel`, `photo`, `registration_date`) VALUES ('test', 'test aja  nih', '20200810050739.jpg', '2020-08-10 17:07:39')
+ERROR - 2020-08-10 17:07:57 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 17:07:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 12:07:58 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 17:08:01 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 17:08:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 12:08:02 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 17:08:52 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 17:08:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 17:09:00 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 17:09:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 141
+ERROR - 2020-08-10 12:09:00 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 17:09:18 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:09:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 12:09:18 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 17:09:23 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:09:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 12:09:24 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 17:09:54 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:09:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:10:04 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:10:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:10:08 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:10:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 12:10:09 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 17:10:12 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:10:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 12:10:12 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 17:10:15 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:10:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:10:49 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:10:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:10:58 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:11:06 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:11:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:11:37 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:11:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:11:53 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:11:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:05 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:08 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:31 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:37 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:41 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:53 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:59 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:12:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:13:29 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:13:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:14:11 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:14:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:15:07 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:15:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:15:17 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:15:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:16:05 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:16:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:17:36 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:17:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:19:31 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:19:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:19:57 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:19:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:20:08 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:20:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:59:37 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:59:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:59:43 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 17:59:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 12:59:49 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:00:16 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:00:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:00:17 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:00:20 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:00:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:00:20 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:00:43 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:00:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:00:43 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:00:46 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:00:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:00:47 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:00:59 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:00:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:01:00 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:01:02 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:01:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:01:02 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:01:21 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:01:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:01:22 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:01:24 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:01:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:01:25 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:02:59 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:02:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:03:00 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:03:01 --> Severity: Warning --> unlink(): http does not allow unlinking C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 242
+ERROR - 2020-08-10 18:03:03 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:03:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:03:03 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 13:03:07 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:03:11 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:03:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:03:12 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:04:18 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:04:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:04:19 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:04:20 --> Severity: Warning --> unlink(): http does not allow unlinking C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 241
+ERROR - 2020-08-10 18:04:21 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:04:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:04:22 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:05:27 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:05:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:05:28 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:05:30 --> Severity: Warning --> unlink(): http does not allow unlinking C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 242
+ERROR - 2020-08-10 18:05:31 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:05:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:05:32 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:05:44 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:05:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:05:45 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 13:05:46 --> 404 Page Not Found: AdminController/delete_carrousel1
+ERROR - 2020-08-10 18:05:50 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:05:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:05:50 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:05:58 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:05:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:05:59 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:06:00 --> Severity: Warning --> unlink(): http does not allow unlinking C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 242
+ERROR - 2020-08-10 18:06:01 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:06:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:06:02 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:06:32 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:06:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:06:33 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:06:59 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:06:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:07:00 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:08:11 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:08:12 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:09:02 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:09:03 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:09:05 --> Severity: Warning --> unlink(): http does not allow unlinking C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 241
+ERROR - 2020-08-10 18:09:08 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:09:08 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:09:47 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:09:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:09:48 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:09:50 --> Severity: Warning --> unlink(20200810051106.jpg): No such file or directory C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 241
+ERROR - 2020-08-10 18:09:51 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:09:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:09:51 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:10:30 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:10:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:10:31 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:10:32 --> Severity: Warning --> unlink(carrousel/20200810051106.jpg): No such file or directory C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 241
+ERROR - 2020-08-10 18:10:33 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:10:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:10:34 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:10:43 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:10:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:10:44 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:10:45 --> Severity: Warning --> unlink(images/carrousel/20200810051106.jpg): No such file or directory C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 241
+ERROR - 2020-08-10 18:10:46 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:10:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:10:47 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:11:05 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:11:05 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:11:08 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:11:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:11:08 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 13:11:08 --> 404 Page Not Found: Assets/css
+ERROR - 2020-08-10 18:12:03 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:12:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:12:03 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 13:12:05 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 18:12:06 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:12:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:12:06 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 13:12:06 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 18:13:15 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:13:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:13:15 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 13:13:15 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 18:13:18 --> Severity: Warning --> unlink(assets/images/carrousel/20200810051329.jpg): No such file or directory C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 242
+ERROR - 2020-08-10 13:13:18 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 13:13:18 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 18:13:19 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:13:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:13:19 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 13:13:19 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 18:13:55 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:13:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:13:55 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 13:13:55 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 18:13:57 --> Severity: Warning --> unlink(assets/images/carrousel/20200810051329.jpg): No such file or directory C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 242
+ERROR - 2020-08-10 13:13:57 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 18:13:59 --> Severity: Warning --> unlink(assets/images/carrousel/20200810051106.jpg): No such file or directory C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 242
+ERROR - 2020-08-10 18:14:49 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:14:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:25:16 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:25:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:38:56 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:38:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 13:39:00 --> 404 Page Not Found: AdminController/product
+ERROR - 2020-08-10 18:39:01 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:39:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:39:03 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:39:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 22:19:34 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 22:19:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 22:19:35 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 22:19:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 22:19:59 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 22:19:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 22:26:07 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:26:56 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:26:57 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:26:57 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:26:57 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:26:57 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:26:58 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:26:58 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:26:58 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:28:39 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:28:39 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:28:39 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:28:40 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:28:40 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:29:05 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:29:06 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:29:06 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:29:06 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:29:06 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:30:09 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:30:09 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:30:10 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:30:16 --> Severity: error --> Exception: Call to undefined method M_image::get_user_by_id() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 253
+ERROR - 2020-08-10 22:40:36 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 265
+ERROR - 2020-08-10 22:40:36 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 266
+ERROR - 2020-08-10 22:40:53 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 265
+ERROR - 2020-08-10 22:40:53 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 266
+ERROR - 2020-08-10 22:41:01 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 265
+ERROR - 2020-08-10 22:41:01 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 266
+ERROR - 2020-08-10 22:41:40 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 265
+ERROR - 2020-08-10 22:41:41 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 266
+ERROR - 2020-08-10 22:42:08 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 265
+ERROR - 2020-08-10 22:42:08 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 266
+ERROR - 2020-08-10 22:45:33 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:45:33 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:45:37 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:45:37 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:46:12 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:46:12 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:47:13 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:47:13 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:48:22 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:48:22 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:48:34 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:48:34 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:48:50 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:48:50 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:50:54 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:50:54 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:50:54 --> Severity: Warning --> unlink(assets/images/carrousel/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 273
+ERROR - 2020-08-10 22:50:54 --> Severity: Notice --> Undefined variable: res C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 276
+ERROR - 2020-08-10 22:51:23 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:51:23 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:53:05 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:53:05 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:54:05 --> Severity: Notice --> Undefined index: foto_car C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:54:05 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:54:32 --> Severity: Notice --> Undefined index: foto_car C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 22:54:32 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 22:57:00 --> Query error: Unknown column 'photo' in 'field list' - Invalid query: INSERT INTO `carrousel` (`title_carrousel`, `information_carrousel`, `photo`, `registration_date`) VALUES ('asd', 'asd', '', '2020-08-10 22:57:00')
+ERROR - 2020-08-10 17:59:28 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 23:00:10 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:00:10 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 23:00:57 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:00:57 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 23:01:29 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:01:29 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 23:01:44 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:01:44 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 18:01:44 --> 404 Page Not Found: AdminController/acc_set
+ERROR - 2020-08-10 23:01:46 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:01:46 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 18:01:46 --> 404 Page Not Found: AdminController/acc_set
+ERROR - 2020-08-10 23:01:47 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:01:47 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 18:01:47 --> 404 Page Not Found: AdminController/acc_set
+ERROR - 2020-08-10 23:02:01 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:02:01 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 23:02:56 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:02:56 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 23:03:18 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:03:18 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 23:04:22 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:04:50 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:07:00 --> Severity: Notice --> Undefined index: file C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:07:52 --> Severity: Notice --> Undefined index: foto1 C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:08:11 --> Severity: Notice --> Undefined index: file C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:14:30 --> Severity: Notice --> Undefined index: photo_carrousel C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:15:32 --> Severity: Notice --> Undefined index: file C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:15:48 --> Severity: Notice --> Undefined index: file C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:18:01 --> Severity: Notice --> Undefined index: file C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:18:49 --> Severity: Notice --> Undefined index: file C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:19:58 --> Severity: Notice --> Undefined index: file C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:22:58 --> Severity: Notice --> Undefined index: file C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:23:27 --> Severity: Notice --> Undefined index: file C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:23:53 --> Severity: Notice --> Undefined index: file C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:24:09 --> Severity: Notice --> Undefined index: file C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 261
+ERROR - 2020-08-10 23:28:42 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 23:28:42 --> Severity: Warning --> unlink(assets/images/carrousel/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 269
+ERROR - 2020-08-10 23:32:33 --> Severity: Notice --> Undefined index: foto C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 262
+ERROR - 2020-08-10 23:32:33 --> Severity: Warning --> unlink(assets/images/carrousel/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 269
+ERROR - 2020-08-10 23:33:46 --> Severity: Warning --> unlink(assets/images/carrousel/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 269
+ERROR - 2020-08-10 23:34:16 --> Severity: Warning --> unlink(assets/images/carrousel/): Permission denied C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 269
+ERROR - 2020-08-10 18:36:12 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 18:38:00 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 18:38:02 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 23:43:03 --> Severity: Notice --> Undefined variable: role C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 23:43:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\companyprofile\adm123\application\views\template\admin\carrousel.php 142
+ERROR - 2020-08-10 18:50:11 --> 404 Page Not Found: AdminController/product
+ERROR - 2020-08-10 19:17:46 --> 404 Page Not Found: AdminController/product
+ERROR - 2020-08-10 19:20:08 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 19:20:08 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 19:20:43 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 19:37:25 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 19:38:09 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 19:46:28 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 19:49:33 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 19:49:33 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 19:49:33 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-10 20:00:29 --> 404 Page Not Found: AdminController/vision
+ERROR - 2020-08-10 20:49:19 --> 404 Page Not Found: AdminController/get_all_mission
+ERROR - 2020-08-10 20:49:40 --> 404 Page Not Found: AdminController/get_all_mission
+ERROR - 2020-08-10 20:50:02 --> 404 Page Not Found: AdminController/get_all_mission
+ERROR - 2020-08-10 21:12:42 --> 404 Page Not Found: AdminController/information
+ERROR - 2020-08-10 21:12:43 --> 404 Page Not Found: AdminController/information

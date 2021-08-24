@@ -1,0 +1,6 @@
+ERROR - 2020-03-22 17:43:01 --> Severity: Notice --> Undefined variable: logo C:\xampp\htdocs\sisven\application\views\template\edit_data.php 107
+ERROR - 2020-03-22 17:44:55 --> Severity: error --> Exception: syntax error, unexpected '$this' (T_VARIABLE) C:\xampp\htdocs\sisven\application\controllers\Stock.php 85
+ERROR - 2020-03-22 17:45:02 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array C:\xampp\htdocs\sisven\application\views\template\edit_data.php 107
+ERROR - 2020-03-22 18:53:30 --> Query error: Unknown column 'jumlah_kirim' in 'field list' - Invalid query: SELECT MAX(jumlah_kirim) AS jb FROM data_barang
+ERROR - 2020-03-22 19:02:30 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\xampp\htdocs\sisven\application\controllers\Transactions.php 28
+ERROR - 2020-03-22 19:02:36 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\xampp\htdocs\sisven\application\controllers\Transactions.php 28

@@ -1,0 +1,26 @@
+ERROR - 2020-08-12 20:50:27 --> Severity: error --> Exception: Call to undefined function mcrypt_decrypt() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 61
+ERROR - 2020-08-12 20:51:39 --> Severity: error --> Exception: Call to undefined function mcrypt_decrypt() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 61
+ERROR - 2020-08-12 20:52:08 --> Severity: error --> Exception: Call to undefined function mcrypt_decrypt() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 61
+ERROR - 2020-08-12 20:52:15 --> Severity: error --> Exception: Call to undefined function mcrypt_decrypt() C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 61
+ERROR - 2020-08-12 21:06:34 --> Query error: Column 'id_role' in field list is ambiguous - Invalid query: SELECT `username`, `name`, `id_role`, `photo`, `name_role`
+FROM `user` `u`
+JOIN `role` `r` ON `u`.`id_role` = `r`.`id_role`
+ERROR - 2020-08-12 21:06:37 --> Query error: Column 'id_role' in field list is ambiguous - Invalid query: SELECT `username`, `name`, `id_role`, `photo`, `name_role`
+FROM `user` `u`
+JOIN `role` `r` ON `u`.`id_role` = `r`.`id_role`
+ERROR - 2020-08-12 16:35:47 --> 404 Page Not Found: AdminController/update_password_user
+ERROR - 2020-08-12 18:33:07 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-12 18:33:07 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-12 18:34:45 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-12 18:34:47 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-12 23:34:54 --> Severity: Warning --> unlink(assets/images/avatar_kar/20200811082539.jpg): No such file or directory C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 94
+ERROR - 2020-08-12 18:36:39 --> 404 Page Not Found: ContentController/profile
+ERROR - 2020-08-12 23:43:02 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO) C:\xampp\htdocs\companyprofile\adm123\application\views\template\profile.php 86
+ERROR - 2020-08-12 18:47:38 --> 404 Page Not Found: AdminController/add_profile
+ERROR - 2020-08-12 23:48:29 --> Severity: error --> Exception: syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file C:\xampp\htdocs\companyprofile\adm123\application\views\template\profile.php 13
+ERROR - 2020-08-12 19:12:39 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-12 19:12:39 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-12 19:51:25 --> 404 Page Not Found: AdminController/update_user_password
+ERROR - 2020-08-12 20:22:04 --> Severity: Notice --> Undefined variable: user_id C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 19
+ERROR - 2020-08-12 20:23:29 --> Severity: error --> Exception: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) C:\xampp\htdocs\companyprofile\adm123\application\controllers\AdminController.php 20
+ERROR - 2020-08-12 20:26:40 --> 404 Page Not Found: ContentController/profile
